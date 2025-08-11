@@ -41,3 +41,10 @@ Computer Engineering student at the final stage of my degree — currently worki
 <a href="[https://www.instagram.com/jjacquisegura/](https://www.tiktok.com/@jjacquisegura?_t=ZM-8ynNslYergu&_r=1)">
    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
    
+
+
+<h2 Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=jjacquisegura&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jjacquisegura)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jjacquisegura&theme=material-palenight)](https://github.com/jjacquisegura)
+</div>
